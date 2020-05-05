@@ -4,10 +4,6 @@
 		<members>SampleDeployClass</members>
 		<members>SampleFailingTestClass</members>
 		<name>ApexClass</name>
-	</types>
-	<types>
-		<members>*</members>
-		<name>ConnectedApp</name>
-	</types>
+</types>
 	<version>48.0</version>
 </Package>
